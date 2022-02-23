@@ -10,6 +10,8 @@ public class PrimaryController {
         App.setRoot("secondary");
     }
     private void LoadScene(int scene){
-        
+        int a = 15;
+        int b = 20;
+        int c = a + b;
     }
 }
